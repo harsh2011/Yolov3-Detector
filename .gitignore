@@ -26,15 +26,15 @@
 storage.googleapis.com
 runs/*
 data/*
-!data/samples/zidane.jpg
-!data/samples/bus.jpg
-!data/coco.names
-!data/coco_paper.names
-!data/coco.data
-!data/coco_*.data
-!data/coco_*.txt
-!data/trainvalno5k.shapes
-!data/*.sh
+!data/images
+!data/labels
+!data/other_labels
+!data/tt_ball.data
+!data/tt_ball.names
+!data/tt_ball.txt
+
+!crops/*
+!backgrounds/*
 
 pycocotools/*
 results*.txt

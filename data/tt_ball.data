@@ -1,0 +1,4 @@
+classes=1
+train=data/tt_ball.txt
+valid=data/tt_ball.txt
+names=data/tt_ball.names
